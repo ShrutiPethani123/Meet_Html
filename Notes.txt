@@ -1,0 +1,4 @@
+HTML -> Hyper Text Markup Language
+
+-> to make static Web page
+-> web page
